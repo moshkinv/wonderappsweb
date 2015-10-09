@@ -24,3 +24,9 @@ C:\Users\vmoshkin\Documents\visual studio 2013\Projects\WonderApps\WonderApps\bi
 C:\Users\vmoshkin\Documents\visual studio 2013\Projects\WonderApps\WonderApps\obj\Debug\WonderApps.csprojResolveAssemblyReference.cache
 C:\Users\vmoshkin\Documents\visual studio 2013\Projects\WonderApps\WonderApps\obj\Debug\WonderApps.dll
 C:\Users\vmoshkin\Documents\visual studio 2013\Projects\WonderApps\WonderApps\obj\Debug\WonderApps.pdb
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Web.Http.WebHost.dll
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Web.Http.WebHost.xml
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Web.Http.dll
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Web.Http.xml
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Net.Http.Formatting.dll
+C:\Users\vmoshkin\documents\visual studio 2013\Projects\WonderApps\WonderApps\bin\System.Net.Http.Formatting.xml

@@ -23,7 +23,7 @@ namespace WonderApps
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/style.css"));
 
             bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
                         "~/Content/themes/base/jquery.ui.core.css",
@@ -38,6 +38,17 @@ namespace WonderApps
                         "~/Content/themes/base/jquery.ui.datepicker.css",
                         "~/Content/themes/base/jquery.ui.progressbar.css",
                         "~/Content/themes/base/jquery.ui.theme.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/semantic-ui").Include(
+                        "~/Scripts/semantic-ui/*.js"));
+
+            bundles.Add(new StyleBundle("~/Content/semantic-ui").Include(
+                        "~/Content/semantic-ui/*.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/studio").Include(
+                        "~/Scripts/studio/*.js",
+                        "~/Scripts/studio/bootstrap.min.js",
+                        "~/Scripts/studio/jquery.stellar.min.js"));
         }
     }
 }
